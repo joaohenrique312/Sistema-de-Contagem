@@ -4,8 +4,8 @@ let info = document.getElementById('information')
 /////Variáveis declaradas acima/////
 
 /////Início do Fetch do JSON/////
-var urlGeral ='http://localhost:3000/geral'
-var urlStatus ='http://localhost:3000/status'
+var urlGeral ='https://json-server-dydyo.vercel.app/geral'
+var urlStatus ='https://json-server-dydyo.vercel.app/status'
 /////Fim do Fetch do JSON/////
 
 function verificar(){
